@@ -1,5 +1,5 @@
-NEW_FILE ?= beet-mode
-OLD_FILE ?= beet-mode
+NEW_FILE ?= draft-moskowitz-ipsecme-beet-rfc7402bis-00
+OLD_FILE ?= draft-moskowitz-ipsecme-beet-rfc7402bis-00
 TMP-SUFF ?= $(mktemp -u XXXXXX)
 TMP_FILE ?= $(NEW_FILE)-$(TMP-SUFF)
 
