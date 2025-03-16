@@ -1,0 +1,18 @@
+#+TITLE: README for BEET MODE RFC7402bis Internet Draft
+#+AUTHOR: Antony Antony
+#+DATE: December 3, 2024
+
+This is the working area for the individual Internet-Draft, "BEET MODE RFC7402bis".
+
+* Introduction
+This README provides information about the ~ESP BEET Mode~ draft document.
+
+* Laest Copy
+The latest version of the draft in HTML format is at:
+- [[https://antonyantony.github.io/beet-mode-rfc7402bis/draft-moskowitz-ipsecme-beet-mode-rfc7402bis-latest.html][Editor's Copy]]
+
+# above URL is replaced by .github/workflows/generate.yaml
+# sed -i "s|antonyantony.github.io/beet-mode-rfc7402bis$USERNAME.github.io/$REPO_NAME|g"
+
+* IETF Datatracker Copy of IKEv2 EESP I.D.
+- To be submitted
