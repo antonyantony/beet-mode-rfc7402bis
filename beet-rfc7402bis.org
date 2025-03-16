@@ -21,10 +21,10 @@
 #+RFC_WORKGROUP: IPSECME Working Group
 
 #+begin_abstract
-[AA we need abstract for  RFC7402bis]
+[AA we need abstract for RFC7402bis]
 
 #+end_abstract
-#+RFC_KEYWORDS: ("BEET" "IKEv2")
+#+RFC_KEYWORDS: ("BEET" "ESP")
 
 * Introduction
 
